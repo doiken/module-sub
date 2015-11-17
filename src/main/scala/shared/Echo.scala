@@ -2,6 +2,6 @@ package shared
 
 object Echo {
   def echo(): Unit = {
-    println("Echoed")
+    println("Echoed 2nd")
   }
 }
